@@ -46,8 +46,8 @@ README.md
 Понадобятся Docker Desktop и Git.
 
 ```bash
-git clone https://github.com/USERNAME/toystore.git
-cd toystore
+git clone https://github.com/pvts19/petya-toy-store.git
+cd petya-toy-store
 docker compose up --build
 ```
 
