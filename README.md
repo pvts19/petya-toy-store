@@ -148,12 +148,3 @@ cd frontend
 npm install
 npm run dev
 ```
-
-## Документация
-
-Дополнительные материалы находятся в папке [`docs`](docs/):
-
-- [Неделя 1](docs/WEEK_1.md)
-- [Неделя 2](docs/WEEK_2.md)
-- [Неделя 3](docs/WEEK_3.md)
-- [Отчёт по проекту](docs/REPORT.md)
